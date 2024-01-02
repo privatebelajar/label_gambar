@@ -1,4 +1,4 @@
 plat
 motor
 mobil
-truck
+truk
